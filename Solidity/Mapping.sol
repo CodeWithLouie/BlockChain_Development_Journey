@@ -71,6 +71,5 @@ contract studentRegistry {
         return(s.name, s.age, s.grade);
 
     } 
-
-
 }
+
